@@ -5,7 +5,7 @@
 }
 *{box-sizing:border-box}
 html{scroll-behavior:smooth}
-body{margin:0;background:var(--bg);color:var(--ink);font-family:"DM Sans",Arial,sans-serif;font-size:14px;line-height:1.65}
+body{margin:0;background:var(--bg);color:var(--ink);font-family:Arial;font-size:14px;line-height:1.65}
 a{color:inherit}
 .container{width:min(var(--max),calc(100% - 72px));margin-inline:auto}
 .topbar{height:68px;border-bottom:1px solid var(--line);position:sticky;top:0;z-index:30;background:rgba(251,250,247,.96);backdrop-filter:blur(8px)}
