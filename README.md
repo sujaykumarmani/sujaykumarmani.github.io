@@ -1,34 +1,33 @@
-# Sujay Kumar Mani — Finance Portfolio
+# Sujay Kumar Mani — GitHub Pages Portfolio v2
 
-This is a GitHub Pages-ready portfolio website built from the supplied resume and the supplied website-design PDF.
+This version is designed to closely follow the supplied Base44/website PDF:
+- editorial serif headings
+- cream/white background
+- terracotta accent
+- compact uppercase navigation
+- right-side "By the numbers" card
+- skills and tools split layout
+- career timeline
+- performance metrics and charts
+- education/certifications
+- recruiter contact section
 
-## Files
+## Upload
 
-- `index.html` — main website
-- `styles.css` — responsive styling
-- `script.js` — small interaction enhancement
-- `assets/Sujay-Kumar-Mani-Resume.pdf` — resume download
+Upload these files to `sujaykumarmani.github.io`:
 
-## Publish on GitHub Pages
+- `index.html`
+- `styles.css`
+- `script.js`
+- `assets/Sujay-Kumar-Mani-Resume.pdf`
 
-1. Open your repository: `https://github.com/sujaykumarmani/sujaykumarmani.github.io`
-2. Upload `index.html`, `styles.css`, `script.js`, and the `assets` folder.
-3. Commit the changes to the `main` branch.
-4. Go to **Settings → Pages**.
-5. Under **Build and deployment**, choose **Deploy from a branch**.
-6. Select **main** and **/ (root)**.
-7. Save.
-
-Your site should appear at:
-
-`https://sujaykumarmani.github.io`
+Then use GitHub:
+Settings → Pages → Deploy from a branch → `main` → `/ (root)` → Save.
 
 ## Power BI
 
-The Power BI section intentionally contains a placeholder. Do not publish confidential employer/client information.
+The portfolio contains a safe placeholder. Replace it only with a public report that does not expose employer/client confidential information.
 
-When you have a safe public Power BI report, replace the placeholder section with the Power BI embed iframe supplied by Power BI.
+## Important source note
 
-## Custom domain
-
-After the GitHub Pages site is working, you can connect `sujaykumarmani.com` through GitHub Pages settings and configure DNS at your domain provider.
+The supplied website PDF and current resume contain some differing figures/wording (for example, the website PDF says 11+ years while the current user instruction says 13 years). This version uses 13+ years in the hero because that is the current figure supplied by the owner, while retaining the source website's visual structure.
